@@ -9,4 +9,7 @@ Just a public repository with some .sh scripts for installing stuff.
 - Execute it: script.sh
 
 ## Actual Scripts:
-- Benchmark: YABS benchmark, useful to see performance of pc/vps
+- Benchmark: YABS benchmark, very useful to see performance of pc/vps
+
+# Donations?
+Coming soon.
