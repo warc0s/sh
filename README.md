@@ -11,6 +11,3 @@ Just a public repository with some .sh scripts for installing stuff.
 ## Actual Scripts:
 - Benchmark: YABS benchmark, very useful to see performance of pc/vps.
 - Swap: Adds 2GB of swap to the vps.
-
-# Donations?
-Coming soon.
