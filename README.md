@@ -1,13 +1,13 @@
-# SH scripts
-Just a public repository with some .sh scripts for installing stuff.
+# SH Scripts
+This is a public repository containing various `.sh` scripts for installation purposes.
 
-## How to download/execute a sh?
-- Click on sh to be downloaded, and select "raw" option.
-- Copy that url
-- Go to your terminal/ssh sesion and write: wget *url*
-- Give permissions to execute it: chmod +x script.sh
-- Execute it: script.sh
+## How to Download and Execute a Script?
+- Navigate to the desired script and click on it, then select the "raw" option.
+- Copy the URL from the address bar.
+- Open your terminal or SSH session and type: `wget [URL]`
+- Grant execution permissions to the script: `chmod +x script.sh`
+- Run the script: `./script.sh`
 
-## Actual Scripts:
-- Benchmark: YABS benchmark, very useful to see performance of pc/vps.
-- Swap: Adds 2GB of swap to the vps.
+## Current Scripts:
+- **Benchmark**: YABS (Yet Another Benchmark Script) benchmark, ideal for assessing the performance of your PC or VPS.
+- **Swap**: Adds 2GB of swap space to your VPS.
